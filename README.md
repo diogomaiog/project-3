@@ -1,8 +1,8 @@
 # project-3
 Authors:
-Daniela Nogueira
-Diogo Gonçalves
-Francesco Serraino 
+Daniela Nogueira;
+Diogo Gonçalves;
+Francesco Serraino. 
 
 Running the script:
 The script to run is 'main2.ipynb', the rest is legacy.
